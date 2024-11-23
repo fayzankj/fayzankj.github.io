@@ -2,8 +2,8 @@
 
 #### Technical Skills: Python, SQL, Excel, PowerBI, MATLAB
 
-## Education	        		
-- B.S., Computer Science | HITEC University Taxila (_Sep 2024_)
+## 🎓 Education    		
+- **B.Sc.**, Computer Science | <a href="https://cattheni.edu.in/" target="_blank">HITEC University Taxila</a> (_Sep 2020 - Sep 2024_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
