@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Excel, PowerBI, MATLAB
 
 ## Education	        		
 - B.S., Computer Science | HITEC University Taxila (_Sep 2024_)
