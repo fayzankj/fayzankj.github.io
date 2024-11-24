@@ -53,18 +53,22 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 Developed a comprehensive analysis and visualization strategy to examine global temperature trends from 1743 to 2013 using Python. By applying statistical techniques and data-driven insights, this project identified significant temperature fluctuations across various regions. The interactive visualizations created for this project provide a clearer understanding of long-term climate change patterns, helping to inform climate policy and adaptation strategies. The approach offers a robust framework for analyzing historical climate data and visualizing global temperature shifts effectively. 
  </p>
 
- ![EEG Band Discovery](/assets/img/1.png)
+ ![Global Temperature Trends](/assets/img/1.png)
 
 ### 💻 HITEC FYP & GRADUATE DIRECTORY
 <a href="https://issuu.com/fayzankj/docs/thesis_hfyp" target="_blank">Thesis</a>
 <p align="justify">
 Developed a comprehensive system for HITEC University to streamline access to graduate and final year project (FYP) data. The platform integrates profiles of graduates and their FYPs, offering a centralized repository for academic achievements and fostering alumni networking. This project utilized Python for backend development and web technologies to ensure easy navigation and scalability. The system enhances visibility of student accomplishments and promotes collaboration among current students, alumni, and faculty. 
  </p>
+ 
+ ![HITEC FYP & GRADUATE DIRECTORY](/assets/img/2.png)
 
 ### 🤖 JARVIS-Voice Assistant
 <a href="https://github.com/fayzankj/Jarvis-Virtual_Assistant" target="_blank">GitHub</a>
 
 Developed an intelligent voice-activated virtual assistant, Jarvis, powered by OpenAI's GPT-3.5-turbo model, using Python. This project integrates features such as web browsing, music playback, and news fetching, enabling seamless user interactions through voice recognition. The system uses natural language processing (NLP) and machine learning algorithms to understand and respond to user commands, offering a flexible and scalable solution for building interactive voice assistants. The project highlights advancements in combining AI-driven models with user-centered applications for everyday tasks. 
+
+ ![JARVIS](/assets/img/3.png)
 
 ## ✍️ Articles & Blogs
 - <a href="https://fayzankj.medium.com/" target="_blank">Medium Articles</a>
