@@ -74,9 +74,9 @@ Developed an intelligent voice-activated virtual assistant, Jarvis, powered by O
 
 
 ## 📜 Publications
-<p align="justify">
-1.Khan, Faizan Ahmed. **"A 270-Year Overview of Global Temperature Variations: Data-Driven Visual Insights."**_Independent research project_ (2024): 13900889. (DOI: <a href="https://doi.org/10.5281/zenodo.13900889" target="_blank">https://doi.org/10.5281/zenodo.13900889</a>)
- </p>
+
+1.Khan, Faizan Ahmed. **"A 270-Year Overview of Global Temperature Variations: Data-Driven Visual Insights."**<p align="justify">_Independent research project_ (2024): 13900889. (DOI: <a href="https://doi.org/10.5281/zenodo.13900889" target="_blank">https://doi.org/10.5281/zenodo.13900889</a>)</p>
+
     
 ## 📚 References
 
