@@ -45,7 +45,7 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 - Experience with Power BI & Excel for data visualization & analysis.
 - Skilled in data cleaning and transformation for machine learning using Python and SQL.
 
-## 🌱 Projects
+## 🖥️ Projects
 ### 📈 Visualizing Global Temperature Trends (1743-2013)
 <a href="https://github.com/fayzankj/Global-Temperature-Trend-Visualization-1743-2013" target="_blank">GitHub</a>
 
