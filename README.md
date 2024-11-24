@@ -58,13 +58,12 @@ Developed a comprehensive analysis and visualization strategy to examine global 
 <p align="justify">
 Developed a comprehensive system for HITEC University to streamline access to graduate and final year project (FYP) data. The platform integrates profiles of graduates and their FYPs, offering a centralized repository for academic achievements and fostering alumni networking. This project utilized Python for backend development and web technologies to ensure easy navigation and scalability. The system enhances visibility of student accomplishments and promotes collaboration among current students, alumni, and faculty. 
  </p>
- 
- ### 💻 HITEC FYP & GRADUATE DIRECTORY
- 
-<a href="https://issuu.com/fayzankj/docs/thesis_hfyp" target="_blank">Thesis</a>
 
-Developed a comprehensive system for HITEC University to streamline access to graduate and final year project (FYP) data. The platform integrates profiles of graduates and their FYPs, offering a centralized repository for academic achievements and fostering alumni networking. This project utilized Python for backend development and web technologies to ensure easy navigation and scalability. The system enhances visibility of student accomplishments and promotes collaboration among current students, alumni, and faculty. 
-
+ ### 🤖 JARVIS-Voice Assistant
+<a href="https://github.com/fayzankj/Jarvis-Virtual_Assistant" target="_blank">GitHub</a>
+<p align="justify">
+Developed an intelligent voice-activated virtual assistant, Jarvis, powered by OpenAI's GPT-3.5-turbo model, using Python. This project integrates features such as web browsing, music playback, and news fetching, enabling seamless user interactions through voice recognition. The system uses natural language processing (NLP) and machine learning algorithms to understand and respond to user commands, offering a flexible and scalable solution for building interactive voice assistants. The project highlights advancements in combining AI-driven models with user-centered applications for everyday tasks 
+ </p>
  
  ### 🤖 JARVIS-Voice Assistant
  
