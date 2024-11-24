@@ -64,13 +64,6 @@ Developed a comprehensive system for HITEC University to streamline access to gr
 <p align="justify">
 Developed an intelligent voice-activated virtual assistant, Jarvis, powered by OpenAI's GPT-3.5-turbo model, using Python. This project integrates features such as web browsing, music playback, and news fetching, enabling seamless user interactions through voice recognition. The system uses natural language processing (NLP) and machine learning algorithms to understand and respond to user commands, offering a flexible and scalable solution for building interactive voice assistants. The project highlights advancements in combining AI-driven models with user-centered applications for everyday tasks 
  </p>
- 
- ### 🤖 JARVIS-Voice Assistant
- 
-<a href="https://github.com/fayzankj/Jarvis-Virtual_Assistant" target="_blank">GitHub</a>
-
-Developed an intelligent voice-activated virtual assistant, Jarvis, powered by OpenAI's GPT-3.5-turbo model, using Python. This project integrates features such as web browsing, music playback, and news fetching, enabling seamless user interactions through voice recognition. The system uses natural language processing (NLP) and machine learning algorithms to understand and respond to user commands, offering a flexible and scalable solution for building interactive voice assistants. The project highlights advancements in combining AI-driven models with user-centered applications for everyday tasks.
-
 
 ## ✍️ Articles & Blogs
 - <a href="https://fayzankj.medium.com/" target="_blank">Medium Articles</a>
