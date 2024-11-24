@@ -110,7 +110,7 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 - Presented poster titled "**Genes for salt tolerance revealed by functional metagenomics in rice**" at 6<sup>th</sup> National conference AC&RI, TNAU, Trichy.
 
 ## ✍️ Articles & Blogs
-- <a href="https://medium.com/@victorallan" target="_blank">Medium Articles</a>
+- <a href="https://fayzankj.medium.com/" target="_blank">Medium Articles</a>
 
 ## 📜 Publications
 
