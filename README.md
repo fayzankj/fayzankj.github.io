@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Excel, PowerBI, MATLAB
 
 #### Summary: 
-Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic data and development and deployment of R/Shiny packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
+B.Sc. in Computer Science with research and internship experience in artificial intelligence, data science, and software development. Skilled in Python, SQL, statistical modeling, and data visualization, with a proven track record in developing machine learning models, data-driven solutions, and interactive applications. Experienced in leading projects such as breast cancer detection using machine learning and climate data visualization. Proficient in tools like Power BI, Git, and Excel for analytics and presentation. Interested in roles involving artificial intelligence, predictive analytics, or software development, with a long-term goal of contributing to innovative research and technology-driven solutions.
 
 ## 🎓 Education    		
 - B.Sc., Computer Science | <a href="https://www.hitecuni.edu.pk/" target="_blank">HITEC University Taxila</a> (_Sep 2024_)
