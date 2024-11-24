@@ -15,29 +15,28 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 ## 🔬 Research Experience
 **Research Contributor @<a href="https://www.hitecuni.edu.pk" target="_blank">HITEC</a> (_2022 - 2023_)**
 - Collaborated on a breast cancer detection project using machine learning techniques, contributing to advancements in healthcare technology.
-- Spearheaded data preprocessing and feature engineering to improve model accuracy.
+- Spearheaded **data preprocessing** and **feature engineering** to improve model accuracy.
 - Assisted in the development and evaluation of predictive models for breast cancer detection.
 - Analyzed model performance and provided actionable insights to refine predictive capabilities.
   
 **Independent Researcher @ <a href="https://zenodo.org/records/13900889" target="_blank">A 270-Year Overview of Global Temperature Variations</a> (_2024_)**
 - Conducted an extensive analysis of global temperature trends spanning from 1743 to 2013, focusing on long-term climatic shifts and their potential impact on future climate policy.
-- Utilized advanced data visualization and statistical techniques to identify significant temperature fluctuations across global regions and highlight their implications for climate resilience.
+- Utilized advanced **data visualization** and **statistical techniques** to identify significant temperature fluctuations across global regions and highlight their implications for climate resilience.
 - Developed interactive visualizations to present findings, facilitating a deeper understanding of climate change patterns and their influence on global warming mitigation strategies.
-- Contributed to the field of climate science by emphasizing the importance of data-driven decision-making in addressing the challenges of climate adaptation.
+- Contributed to the field of climate science by emphasizing the importance of **data-driven decision-making** in addressing the challenges of climate adaptation.
 
 ## 💼 Work experience 
-**Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
-- 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.
-- Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
-- Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Profile</a>. 
+**Data Science Intern @ <a href="https://coderscave.in/" target="_blank">Coderscave </a>, India (_Decembe 2020 - Present_)**
+- Gained hands-on experience in data analysis, statistical modeling, and machine learning using Python and SQL, working with real-world datasets.
+- Developed an **Email Spam Filter** using **Natural Language Processing (NLP)** and machine learning algorithms, improving email classification accuracy. 
+- Conducted **time series analysis** on stock price data to identify trends and forecast future market behavior, demonstrating advanced analytical skills.
 
 ## 💻 Programming and data analysis skills
-- Proficient in full stack development of **R packages** using modular coding practices.
-- Created **production-grade Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
-- **Machine learning model** building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm).
-- **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
-- Experience with analysis of **next-generation sequencing** data including quality control, read mapping, variant calling, expression quantification, metagenomic profiling, and associated statistical analysis using standard workflows in R and Python.
-- **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
+- Proficient in **Python**, **SQL**, **MATLAB**, and JavaScript for data analysis, statistical modeling, and machine learning tasks.
+- Experienced in developing **machine learning models**, including natural language processing (NLP) applications like Email Spam Filters and time series forecasting for stock prices.
+- Skilled in **data visualization** using Python libraries such as Matplotlib, Seaborn, and Plotly to create interactive visualizations for large-scale datasets.
+- Expertise in **statistical analysis** and predictive modeling for analyzing complex datasets, including applications in climate data analysis and business data insights.
+- Familiar with **data wrangling** and **feature engineering** techniques to process and clean datasets for machine learning model training.
 
 **Additional Skills:**
   
