@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Excel, PowerBI, MATLAB
 
 #### Summary: 
-B.Sc. in Computer Science with research and internship experience in artificial intelligence, data science, and software development. Skilled in Python, SQL, statistical modeling, and data visualization, with a proven track record in developing machine learning models, data-driven solutions, and interactive applications. Experienced in leading projects such as breast cancer detection using machine learning and climate data visualization. Proficient in tools like Power BI, Git, and Excel for analytics and presentation. Interested in roles involving artificial intelligence, predictive analytics, or software development, with a long-term goal of contributing to innovative research and technology-driven solutions.
+B.Sc. in Computer Science with research and internship experience in artificial intelligence, data science, and software development. Skilled in developing machine learning models, analyzing data, and creating interactive applications. Contributed to projects like breast cancer detection and climate data visualization. Interested in roles involving artificial intelligence, predictive analytics, or software development.
 
 ## 🎓 Education    		
 - B.Sc., Computer Science | <a href="https://www.hitecuni.edu.pk/" target="_blank">HITEC University Taxila</a> (_Sep 2024_)
