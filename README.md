@@ -41,8 +41,8 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 **Additional Skills:**
   
 - Git/GitHub for version control and collaborative coding.
-- Strong foundation in front-end development using React.js, HTML, and CSS.
-- Hands-on experience with Power BI and Excel for data visualization and analysis.
+- Strong foundation in Web development using React.js, HTML & CSS.
+- Experience with Power BI and Excel for data visualization and analysis.
 - Skilled in data cleaning and transformation for machine learning using Python and SQL.
 
 ## 🌱 R Packages developed
