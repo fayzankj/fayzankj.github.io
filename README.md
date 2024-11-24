@@ -6,22 +6,24 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 #### Technical Skills:
 
 - Programming Languages: _Proficient in Python, SQL, C++ & JavaScript; experience with HTML, CSS, and React.js._
+- - Data Science and Analytics: _statistical analysis, machine learning, data visualization, and predictive modeling._
 - Tools and Development: _Proficient in Power BI, Excel, Git & version control systems; experienced with Python libraries like Matplotlib, Plotly, and Seaborn for data visualization; adept in front-end development using React.js and working with tools like VS Code / PyCharm, and LaTeX._
-- Data Science and Analytics: _statistical analysis, machine learning, data visualization, and predictive modeling._
   
 ## 🎓 Education    		
 - B.Sc., Computer Science | <a href="https://www.hitecuni.edu.pk/" target="_blank">HITEC University Taxila</a> (_Sep 2024_)
 
 ## 🔬 Research Experience
-**Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
-- Developed and applied advanced tissue culture techniques like embryo culture to rapidly generate **somaclonal variants of rice** with improved salinity stress tolerance.
-- Identified and validated novel genomic regions **(QTLs)** governing salinity tolerance through **molecular mapping** in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
-- Employed **multi-omics approaches** including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
-
-**Research scholar @ <a href="https://www.icrisat.org/" target="_blank">ICRISAT</a> (_2018 - 2020_)**
-- Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea – genotyped 1,980 plants/samples combined) to examine intra and inter accession genetic diversity. 
-- Single plant genotyping of accessions using **<a href="https://www.diversityarrays.com/" target="_blank">DArTSeq</a> based SNPs**.
-- Harnessed whole genome genotyping, simulations, and predictive modeling to provide integrated insights into the dynamics of genetic variation across a species' range, by quantifying genomic diversity within and between isolated subpopulations, and developed optimized statistical frameworks to guide sustainable sampling regimes that limit genetic drift.
+**Research Contributor @<a href="https://www.hitecuni.edu.pk" target="_blank">HITEC</a> (_2022 - 2023_)**
+- Collaborated on a breast cancer detection project using machine learning techniques, contributing to advancements in healthcare technology.
+- Spearheaded data preprocessing and feature engineering to improve model accuracy.
+- Assisted in the development and evaluation of predictive models for breast cancer detection.
+- Analyzed model performance and provided actionable insights to refine predictive capabilities.
+  
+**Independent Researcher @ <a href="https://zenodo.org/records/13900889" target="_blank">A 270-Year Overview of Global Temperature Variations</a> (_2024_)**
+- Conducted an extensive analysis of global temperature trends spanning from 1743 to 2013, focusing on long-term climatic shifts and their potential impact on future climate policy.
+- Utilized advanced data visualization and statistical techniques to identify significant temperature fluctuations across global regions and highlight their implications for climate resilience.
+- Developed interactive visualizations to present findings, facilitating a deeper understanding of climate change patterns and their influence on global warming mitigation strategies.
+- Contributed to the field of climate science by emphasizing the importance of data-driven decision-making in addressing the challenges of climate adaptation.
 
 ## 💼 Work experience 
 **Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
