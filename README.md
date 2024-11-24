@@ -8,7 +8,7 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 
 - Programming Languages: _Proficient in Python, SQL, C++ & JavaScript; experience with HTML, CSS, and React.js._
 - Data Science and Analytics: _statistical analysis, machine learning, data visualization, and predictive modeling._
-- Tools and Development: _Proficient in Power BI, Excel, Git & version control systems; experienced with Python libraries like Matplotlib, Plotly, and Seaborn for data visualization; adept in front-end development using React.js and working with tools like VS Code / PyCharm, and LaTeX._
+- Tools and Development: _Proficient in Power BI, Excel, Git and version control systems; experienced with Python libraries like Matplotlib, Plotly, and Seaborn for data visualization; adept in front-end development using React.js and working with tools like VS Code / PyCharm, and LaTeX._
 
 ## 🎓 Education    		
 - B.Sc., Computer Science | <a href="https://www.hitecuni.edu.pk/" target="_blank">HITEC University Taxila</a> (_Sep 2024_)
