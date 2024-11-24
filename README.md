@@ -53,6 +53,8 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 Developed a comprehensive analysis and visualization strategy to examine global temperature trends from 1743 to 2013 using Python. By applying statistical techniques and data-driven insights, this project identified significant temperature fluctuations across various regions. The interactive visualizations created for this project provide a clearer understanding of long-term climate change patterns, helping to inform climate policy and adaptation strategies. The approach offers a robust framework for analyzing historical climate data and visualizing global temperature shifts effectively. 
  </p>
 
+ ![EEG Band Discovery](/assets/img/1.png)
+
 ### 💻 HITEC FYP & GRADUATE DIRECTORY
 <a href="https://issuu.com/fayzankj/docs/thesis_hfyp" target="_blank">Thesis</a>
 <p align="justify">
