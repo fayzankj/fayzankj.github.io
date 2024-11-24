@@ -6,8 +6,8 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 #### Technical Skills:
 
 - Programming Languages: _Proficient in Python, SQL, MATLAB, C++ & JavaScript; experience with HTML, CSS, and React.js._
-- Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
-- Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
+- Tools and Development: _Proficient in Power BI, Excel, Git & version control systems; experienced with Python libraries like Matplotlib, Plotly, and Seaborn for data visualization; adept in front-end development using React.js and working with tools like VS Code / PyCharm, and LaTeX._
+- Data Science and Analytics: _statistical analysis, machine learning, data visualization, and predictive modeling._
   
 ## 🎓 Education    		
 - B.Sc., Computer Science | <a href="https://www.hitecuni.edu.pk/" target="_blank">HITEC University Taxila</a> (_Sep 2024_)
