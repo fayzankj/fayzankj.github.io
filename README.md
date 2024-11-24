@@ -115,27 +115,27 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 |     |     |
 |:----|:----|
-| **Name:** | **Dr. Vania de Azevedo** |
-| **Position:** | Former Head, Plant Genetic Resources |
-| **Organization:** | ICRISAT, Hyderabad, India |
+| **Name:** | **Dr. prof. Junaid Ali khan** |
+| **Position:** | Dean Faculty of Sciences |
+| **Organization:** | HITEC, Taxila, Pakistan |
 | **E-mail:** | <a href="mailto:azevedovcr@gmail.com">azevedovcr@gmail.com</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/v%C3%A2nia-c-renn%C3%B3-azevedo-21493449/" target="_blank">Visit Page</a> |
+| **LinkedIn:** | <a href="https://www.linkedin.com/in/engr-dr-prof-junaid-ali-89a8126a/" target="_blank">Visit Page</a> |
 
 |     |     |
 |:----|:----|
-| **Name:** | **Dr. Mani Vetriventhan** |
-| **Position:** | Senior Scientist, Plant Genetic Resources |
-| **Organization:** | ICRISAT, Hyderabad, India |
+| **Name:** | **Dr. Muhammad Nazir** |
+| **Position:** | Chairman Dept. of Computer Science |
+| **Organization:** | HITEC, Taxila, Pakistan |
 | **E-mail:** | <a href="mailto:M.Vetriventhan@cgiar.org">M.Vetriventhan@cgiar.org</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/vetriventhan-mani-26468322/" target="_blank">Visit Page</a> |
+| **LinkedIn:** | <a href="https://www.linkedin.com/in/dr-muhammad-nazir-18434617/" target="_blank">Visit Page</a> |
 
 |     |     |
 |:----|:----|
-| **Name:** | **Mr. Rajaguru Bohar** |
-| **Position:** | Regional Genotyping Coordinator (South Asia) / Senior Scientist (Project management) |
-| **Organization:** | CIMMYT |
-| **E-mail:** | <a href="mailto:wishmeguru@gmail.com">wishmeguru@gmail.com</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/rajaguru-bohar-5038762a/" target="_blank">Visit Page</a> |
+| **Name:** | **Dr. Muhammad Attique Khan** |
+| **Position:** | Research Assistant Professor |
+| **Organization:** | Prince Mohammad Bin Fahd University, KSA |
+| **E-mail:** | <a href="mailto:M.Vetriventhan@cgiar.org">M.Vetriventhan@cgiar.org</a> |
+| **LinkedIn:** | <a href="https://www.linkedin.com/in/dr-muhammad-attique-khan-232811141/" target="_blank">Visit Page</a> |
 |     |     |
 
 
