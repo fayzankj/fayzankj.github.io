@@ -141,6 +141,6 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 ## 📞 Contact
 
-| **Name**   | Allan. V | 
-| **E-mail**   | <a href="mailto:albertoogy@gmail.com">albertoogy@gmail.com</a> | 
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/allan-victor-6919b4152/" target="_blank">Visit Page</a> | 
+| **Name**   | Faizan Ahmed Khan | 
+| **E-mail**   | <a href="mailto:fayzank19@yahoo.com">fayzank19@yahoo.com</a> | 
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/fayzankj/" target="_blank">Visit Page</a> | 
