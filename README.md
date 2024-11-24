@@ -54,7 +54,9 @@ Developed a comprehensive analysis and visualization strategy to examine global 
  </p>
  
  ### 💻 HITEC FYP & GRADUATE DIRECTORY
+ 
 <a href="https://issuu.com/fayzankj/docs/thesis_hfyp" target="_blank">Thesis</a>
+
 <p align="justify">
 Developed a comprehensive system for HITEC University to streamline access to graduate and final year project (FYP) data. The platform integrates profiles of graduates and their FYPs, offering a centralized repository for academic achievements and fostering alumni networking. This project utilized Python for backend development and web technologies to ensure easy navigation and scalability. The system enhances visibility of student accomplishments and promotes collaboration among current students, alumni, and faculty.
  </p>
