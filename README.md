@@ -1,14 +1,15 @@
 # Data Analyst
 
 #### Summary: 
+<p align="justify">
 B.Sc. in Computer Science with research and internship experience in artificial intelligence, data science, and software development. Skilled in developing machine learning models, analyzing data, and creating interactive applications. Contributed to projects like breast cancer detection and climate data visualization. Interested in roles involving artificial intelligence, predictive analytics, or software development, with a long-term goal of contributing to innovative research and technology-driven solutions.
-
+ </p>
 #### Technical Skills:
 
 - Programming Languages: _Proficient in Python, SQL, C++ & JavaScript; experience with HTML, CSS, and React.js._
 - Data Science and Analytics: _statistical analysis, machine learning, data visualization, and predictive modeling._
 - Tools and Development: _Proficient in Power BI, Excel, Git & version control systems; experienced with Python libraries like Matplotlib, Plotly, and Seaborn for data visualization; adept in front-end development using React.js and working with tools like VS Code / PyCharm, and LaTeX._
-  
+
 ## 🎓 Education    		
 - B.Sc., Computer Science | <a href="https://www.hitecuni.edu.pk/" target="_blank">HITEC University Taxila</a> (_Sep 2024_)
 
@@ -53,24 +54,24 @@ Developed a comprehensive analysis and visualization strategy to examine global 
  </p>
 ### 💻 HITEC FYP & GRADUATE DIRECTORY
 <a href="https://issuu.com/fayzankj/docs/thesis_hfyp" target="_blank">Thesis</a>
-
+<p align="justify">
 Developed a comprehensive system for HITEC University to streamline access to graduate and final year project (FYP) data. The platform integrates profiles of graduates and their FYPs, offering a centralized repository for academic achievements and fostering alumni networking. This project utilized Python for backend development and web technologies to ensure easy navigation and scalability. The system enhances visibility of student accomplishments and promotes collaboration among current students, alumni, and faculty.
-
+ </p>
 ### 🤖 JARVIS-Voice Assistant
 
 <a href="https://github.com/fayzankj/Jarvis-Virtual_Assistant" target="_blank">GitHub</a>
-
+<p align="justify">
 Developed an intelligent voice-activated virtual assistant, Jarvis, powered by OpenAI's GPT-3.5-turbo model, using Python. This project integrates features such as web browsing, music playback, and news fetching, enabling seamless user interactions through voice recognition. The system uses natural language processing (NLP) and machine learning algorithms to understand and respond to user commands, offering a flexible and scalable solution for building interactive voice assistants. The project highlights advancements in combining AI-driven models with user-centered applications for everyday tasks.
-
+ </p>
 
 ## ✍️ Articles & Blogs
 - <a href="https://fayzankj.medium.com/" target="_blank">Medium Articles</a>
 
 
 ## 📜 Publications
-
+<p align="justify">
 1.Khan, Faizan Ahmed. **"A 270-Year Overview of Global Temperature Variations: Data-Driven Visual Insights."**_Independent research project_ (2024): 13900889. (DOI: <a href="https://doi.org/10.5281/zenodo.13900889" target="_blank">https://doi.org/10.5281/zenodo.13900889</a>)
-
+ </p>
     
 ## 📚 References
 
