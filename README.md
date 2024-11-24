@@ -41,9 +41,9 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 **Additional Skills:**
   
 - Git/GitHub for version control and collaborative coding.
-- High performance computing on clusters for scalable data analysis.
-- Bioconductor for analyzing genomic/transcriptomic experiments.
-- Workflow automation to enhance reproducibility and to faster workflow. 
+- Strong foundation in front-end development using React.js, HTML, and CSS.
+- Hands-on experience with Power BI and Excel for data visualization and analysis.
+- Skilled in data cleaning and transformation for machine learning using Python and SQL.
 
 ## 🌱 R Packages developed
 ### ✅ PBGeno
