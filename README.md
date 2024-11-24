@@ -105,9 +105,11 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 ## ✍️ Articles & Blogs
 - <a href="https://fayzankj.medium.com/" target="_blank">Medium Articles</a>
 
+
 ## 📜 Publications
 
 1.Khan, Faizan Ahmed. **"A 270-Year Overview of Global Temperature Variations: Data-Driven Visual Insights."**_Independent research project_ (2024): 13900889. (DOI: <a href="https://doi.org/10.5281/zenodo.13900889" target="_blank">https://doi.org/10.5281/zenodo.13900889</a>)
+
     
 ## 📚 References
 
