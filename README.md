@@ -5,7 +5,7 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 
 #### Technical Skills:
 
-- Programming Languages: _Proficient in Python, SQL, MATLAB, C++ & JavaScript; experience with HTML, CSS, and React.js._
+- Programming Languages: _Proficient in Python, SQL, C++ & JavaScript; experience with HTML, CSS, and React.js._
 - Tools and Development: _Proficient in Power BI, Excel, Git & version control systems; experienced with Python libraries like Matplotlib, Plotly, and Seaborn for data visualization; adept in front-end development using React.js and working with tools like VS Code / PyCharm, and LaTeX._
 - Data Science and Analytics: _statistical analysis, machine learning, data visualization, and predictive modeling._
   
