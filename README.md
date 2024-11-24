@@ -117,14 +117,14 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 |:----|:----|
 | **Name:** | **Dr. prof. Junaid Ali khan** |
 | **Position:** | Dean Faculty of Sciences |
-| **Organization:** | HITEC, Taxila, Pakistan |
+| **Organization:** | HITEC University, Taxila, Pakistan |
 | **LinkedIn:** | <a href="https://www.linkedin.com/in/engr-dr-prof-junaid-ali-89a8126a/" target="_blank">Visit Page</a> |
 
 |     |     |
 |:----|:----|
 | **Name:** | **Dr. Muhammad Nazir** |
 | **Position:** | Chairman Dept. of Computer Science |
-| **Organization:** | HITEC, Taxila, Pakistan |
+| **Organization:** | HITEC University, Taxila, Pakistan |
 | **LinkedIn:** | <a href="https://www.linkedin.com/in/dr-muhammad-nazir-18434617/" target="_blank">Visit Page</a> |
 
 |     |     |
