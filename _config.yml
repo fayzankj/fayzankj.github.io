@@ -3,3 +3,7 @@ logo: /assets/img/headshot_circle-m.png
 description: Example data science portfolio 
 show_downloads: true 
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag 
+google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk"
+email: fayzank19@gmail.com
