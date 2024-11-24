@@ -45,62 +45,23 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 - Experience with Power BI & Excel for data visualization & analysis.
 - Skilled in data cleaning and transformation for machine learning using Python and SQL.
 
-## 🌱 R Packages developed
-### ✅ PBGeno
-<a href="https://github.com/Allan-gitrepos/pbgeno" target="_blank">GitHub</a>
+## 🌱 Projects
+### 📈 Visualizing Global Temperature Trends (1743-2013)
+<a href="https://github.com/fayzankj/Global-Temperature-Trend-Visualization-1743-2013" target="_blank">GitHub</a>
 
-Developed pbgeno, an R package to streamline data analysis workflows for plant breeders. The package provides functions for calculating genetic distances, clustering genotypes, estimating diversity statistics, creating publication-quality visualizations, and automating routine tasks. Key features include calculating genetic distance matrices, structure-based clustering, polymorphism quantification, and converting proprietary marker genotypes into standardized formats for genome-wide association mapping. 
+Developed a comprehensive analysis and visualization strategy to examine global temperature trends from 1743 to 2013 using Python. By applying statistical techniques and data-driven insights, this project identified significant temperature fluctuations across various regions. The interactive visualizations created for this project provide a clearer understanding of long-term climate change patterns, helping to inform climate policy and adaptation strategies. The approach offers a robust framework for analyzing historical climate data and visualizing global temperature shifts effectively.
 
-### ✅ PBPerfect
-**PBPerfect** <a href="https://allanbiotools.shinyapps.io/pbperfect/" target="_blank">(Visit Page)</a> is a interactive web tool enabling reproducible multivariate analysis with visualization of phenotypic and genotypic data. It features basic statistics, experimental designs, SSR workflows, multivariate analysis, mating designs, and dynamic graphics with outputs exported as publication-standard tables and graphics requiring no further formatting.
+### 💻 HITEC FYP & GRADUATE DIRECTORY
+<a href="https://issuu.com/fayzankj/docs/thesis_hfyp" target="_blank">Thesis</a>
 
-### ✅ PBMLT: Plant Breeding Multilocation Trail Data Analysis Software
+Developed a comprehensive system for HITEC University to streamline access to graduate and final year project (FYP) data. The platform integrates profiles of graduates and their FYPs, offering a centralized repository for academic achievements and fostering alumni networking. This project utilized Python for backend development and web technologies to ensure easy navigation and scalability. The system enhances visibility of student accomplishments and promotes collaboration among current students, alumni, and faculty.
 
-**PBMLT**<a href="https://allanbiotools1.shinyapps.io/PBMLT/" target="_blank">(Visit Page)</a> is a comprehensive and user-friendly platform that provides plant breeders with an all-in-one solution for analyzing multi-environment trial data through:
+### 🤖 JARVIS-Voice Assistant
 
-- Powerful Analysis of Variance (ANOVA) to explore significance of variation across locations and treatments.
-- Additive Main Effects and Multiplicative Interaction (AMMI) analysis for in-depth genotype-environment interaction studies.
-- Calculation of essential AMMI-based stability indices like ASV, ASTAB, ASI, MASI, SIPC, ZA for identifying adaptable lines.
-- Evaluation of overall productivity using metrics such as mean AVAMGE for high-yielding genotype selection.
-- Scaled stability measures like SSIASTAB and ASI_SSI for ranking lines based on trait stability.
-- Interactive visualizations including Biplots, GGE plots, WASS plots for straightforward interpretation of complex data.
-- Centralized platform integrating meta-analysis, statistical analytics, and genotype-environment interaction analysis.
+<a href="https://github.com/fayzankj/Jarvis-Virtual_Assistant" target="_blank">GitHub</a>
 
-### ✅ PBlinkagemap
+Developed an intelligent voice-activated virtual assistant, Jarvis, powered by OpenAI's GPT-3.5-turbo model, using Python. This project integrates features such as web browsing, music playback, and news fetching, enabling seamless user interactions through voice recognition. The system uses natural language processing (NLP) and machine learning algorithms to understand and respond to user commands, offering a flexible and scalable solution for building interactive voice assistants. The project highlights advancements in combining AI-driven models with user-centered applications for everyday tasks.
 
-**PBlinkagemap** <a href="https://allanbiotools1.shinyapps.io/PBLinkagemap/" target="_blank">(Visit Page)</a> enables easy creation of linkage maps and identification of associated quantitative trait loci (QTLs) from genomic and phenotypic datasets. 
-
-It allows users to:
-- Import chromosome, marker, map distance and trait score data
-- Interactively explore results on linkage maps
-- Visualize QTL locations and effects
-By handling computationally intensive linkage analysis and mapping behind the scenes, PBlinkagemap makes it simple for users to go from datasets to QTL discovery through an intuitive interface.
-
-### ✅ PB-GWAS 🧬
-
-**PB-GWAS** <a href="https://allanbiotools1.shinyapps.io/PBgwas/" target="_blank">(Visit Page)</a> makes powerful genome-wide association studies accessible through an easy-to-use web app 👩‍💻
-
-Key features:
-📥 File upload in 4 clicks  
-🏃‍♂️ One-click GWAS launch  
-⚙️ Adjust parameters via sidebar   
-📈 Interactive result plotting  
-📄 Full PDF report downloading
-
-By eliminating coding barriers, PB-GWAS allows both new and advanced users to leverage GAPIT workflows with no programming expertise required!. Whether you want to map simple or complex traits, PB-GWAS provides the automated analysis to accelerate discoveries 🔬
-
-### ✅ PBHaploMineR 🧬
-
-**PBHaploMineR** <a href="https://github.com/Allan-gitrepos/PBhaplominerR" target="_blank">(Visit Page)</a> provides a toolkit to streamline pangenome haplotype mining and comparison from next-generation sequencing data. This R package aims to make large-scale haplotype analysis efficient and accessible for species with reference pangenomes.
-
-**Key Features:**
-* **Sequence Import** - Functions to import raw reads from multiple platforms and store in standardized schema
-* **Haplotype Calling** - Optimized algorithms for pangenome-wide haplotype calling, incorporating structural variation
-* **HapViz** - Interactive visualization system to explore and compare haplotypes in context of pangenome structure
-* **HapCompare** - Statistically compare haplotypes between groups of samples/accessions and identify associated genomic signatures
-* **Parallelization** - Built-in parallelization to scale analyses across HPC infrastructure
-
-PBHaploMineR is still under development and testing. ETA for first stable version is Q1 2024.
 
 ## ✍️ Articles & Blogs
 - <a href="https://fayzankj.medium.com/" target="_blank">Medium Articles</a>
