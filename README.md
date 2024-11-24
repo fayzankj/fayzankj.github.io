@@ -26,7 +26,7 @@ B.Sc. in Computer Science with research and internship experience in artificial 
 - Contributed to the field of climate science by emphasizing the importance of **data-driven decision-making** in addressing the challenges of climate adaptation.
 
 ## 💼 Work experience 
-**Data Science Intern @ <a href="https://coderscave.in/" target="_blank">Coderscave </a>, India (_Decembe 2020 - Present_)**
+**Data Science Intern @ <a href="https://coderscave.in/" target="_blank">Coderscave </a>, India (_May 2024 - June 2024_)**
 - Gained hands-on experience in data analysis, statistical modeling, and machine learning using Python and SQL, working with real-world datasets.
 - Developed an **Email Spam Filter** using **Natural Language Processing (NLP)** and machine learning algorithms, improving email classification accuracy. 
 - Conducted **time series analysis** on stock price data to identify trends and forecast future market behavior, demonstrating advanced analytical skills.
