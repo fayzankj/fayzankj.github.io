@@ -1,4 +1,4 @@
-# Data Analyst
+# Aspiring Data Scientist
 
 #### Summary:  
 <p align="justify">
