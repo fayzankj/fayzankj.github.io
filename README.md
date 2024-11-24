@@ -3,19 +3,14 @@
 #### Summary: 
 B.Sc. in Computer Science with research and internship experience in artificial intelligence, data science, and software development. Skilled in developing machine learning models, analyzing data, and creating interactive applications. Contributed to projects like breast cancer detection and climate data visualization. Interested in roles involving artificial intelligence, predictive analytics, or software development, with a long-term goal of contributing to innovative research and technology-driven solutions.
 
-## 🎓 Education    		
-- B.Sc., Computer Science | <a href="https://www.hitecuni.edu.pk/" target="_blank">HITEC University Taxila</a> (_Sep 2024_)
-
 #### Technical Skills:
 
 - Programming Languages: _Proficient in Python, SQL, MATLAB, C++ & JavaScript; experience with HTML, CSS, and React.js._
 - Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
 - Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
   
-## 🎓 Education
-- **Ph.D.**, Genetics and Plant Breeding | <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
-- **M.Sc.**, Genetics and Plant Breeding	| <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_AUG 2017 - DEC 2020_)	 			        		
-- **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
+## 🎓 Education    		
+- B.Sc., Computer Science | <a href="https://www.hitecuni.edu.pk/" target="_blank">HITEC University Taxila</a> (_Sep 2024_)
 
 ## 🔬 Research Experience
 **Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
