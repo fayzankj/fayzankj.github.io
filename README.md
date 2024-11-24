@@ -3,7 +3,7 @@
 #### Summary: 
 <p align="justify">
 B.Sc. in Computer Science with research and internship experience in artificial intelligence, data science, and software development. Skilled in developing machine learning models, analyzing data, and creating interactive applications. Contributed to projects like breast cancer detection and climate data visualization. Interested in roles involving artificial intelligence, predictive analytics, or software development, with a long-term goal of contributing to innovative research and technology-driven solutions.    
- </p>
+ </p> 
 #### Technical Skills:
 
 - Programming Languages: _Proficient in Python, SQL, C++ & JavaScript; experience with HTML, CSS, and React.js._
