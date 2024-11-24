@@ -129,10 +129,10 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 |     |     |
 |:----|:----|
-| **Name:** |   **Dr. Muhammad Attique** |
-| **Position:** |   Research Assistant Professor |
-| **Organization:** |   Prince Mohammad Bin Fahd University, KSA |
-| **LinkedIn:** |   <a href="https://www.linkedin.com/in/dr-muhammad-attique-khan-232811141/" target="_blank">Visit Page</a> |
+| **Name:**   |   **Dr. Muhammad Attique** |
+| **Position:**   |   Research Assistant Professor |
+| **Organization:**   |   Prince Mohammad Bin Fahd University, KSA |
+| **LinkedIn:**   |   <a href="https://www.linkedin.com/in/dr-muhammad-attique-khan-232811141/" target="_blank">Visit Page</a> |
 |     |     |
 
 ## 📞 Contact
